@@ -3,9 +3,10 @@
 ## Description  
 This is a simple Android tip calculator app. The app allows users to enter a base amount and choose a tip percentage, then it calculates and displays the tip amount and the total bill in real-time.
 
-![1000041859](https://github.com/user-attachments/assets/ad562645-d726-46d8-87da-dffff1184745)
-![1000041860](https://github.com/user-attachments/assets/d0e3d99c-f0e9-413f-9f4d-4f0f35d28f0e)
-
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/ad562645-d726-46d8-87da-dffff1184745" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d0e3d99c-f0e9-413f-9f4d-4f0f35d28f0e" width="200"/>
+</p>
 
 ## Features  
 - User-friendly interface built with ConstraintLayout  
